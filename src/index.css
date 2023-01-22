@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&family=Rubik+Dirt&family=Sofia+Sans&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  html{
+    /* background-color: xxx; */
+    /* @apply bg-gray-200 dark:bg-slate-800; */
+    font-family: 'Sofia Sans', sans-serif;  
+  }
+}
